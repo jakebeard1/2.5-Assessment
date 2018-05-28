@@ -17,7 +17,7 @@ This project includes several small pieces of functionality.  We will be testing
    * Start with one test for each piece of functionality and get as far as you can, before you worry about testing the same piece multiple ways.
 1. Plan HOW you can test these items.
    * You can put this information into JIRA if it will be helpful for you, but it is not required for this assessment.
-1. Gather selectors.  I do want to see a selectors file for this step.
+1. Gather selectors.  I do want to see a page object file for this project.
 1. What test data will you need?  You *can* but don't have to have a separate file for the test data.
    * If you need help for any of this old projects are fair game, the internet is fair game, but I'd prefer you don't discuss this much amongst yourselves.
 1. Start writing!
